@@ -21,7 +21,7 @@
     "unique"
   ],
   "dependencies": {
-    "mm-errors": "^1.0.0"
+    "mm-errors": "^2.0.0"
   },
   "author": "Alexey Novikov <v@2dubs.com>",
   "license": "MIT",
