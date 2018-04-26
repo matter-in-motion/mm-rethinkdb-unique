@@ -1,6 +1,6 @@
 {
   "name": "mm-rethinkdb-unique",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Rethinkdb unique index helper extension for Matter In Motion",
   "main": "index.js",
   "scripts": {
